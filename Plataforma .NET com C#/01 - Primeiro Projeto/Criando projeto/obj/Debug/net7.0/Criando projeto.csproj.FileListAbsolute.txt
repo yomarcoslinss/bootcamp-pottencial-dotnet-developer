@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\bin\Debug\net7.0\Criando projeto.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\bin\Debug\net7.0\Criando projeto.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\bin\Debug\net7.0\Criando projeto.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\bin\Debug\net7.0\Criando projeto.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\bin\Debug\net7.0\Criando projeto.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\refint\Criando projeto.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\Criando projeto.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\01 - Primeiro Projeto\Criando projeto\obj\Debug\net7.0\ref\Criando projeto.dll
