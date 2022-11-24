@@ -1,2 +1,2 @@
-# CSHARP
- Curso de C# da plataforma Estudonauta
+
+Meu repositório do Bootcamp Pottencial .NET Developer da plataforma DIO
