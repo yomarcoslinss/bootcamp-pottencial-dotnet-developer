@@ -12,7 +12,9 @@ namespace _04___Usando_a_classe_Pessoa.Models.Pessoa
 
         public void Descrever()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome} e eu tenho {Idade} anos.");
+            Console.WriteLine($"Olá, meu nome é {Nome} e "+
+             $"eu tenho {Idade} anos.");
+            Console.WriteLine($"Eu, {Nome} e quero pular uma linha \n desta maneira");
         }
     }
 }

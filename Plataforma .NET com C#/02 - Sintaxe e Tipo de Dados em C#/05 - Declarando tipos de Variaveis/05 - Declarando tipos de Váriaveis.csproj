@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_05___Declarando_tipos_de_Váriaveis</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ProjectGuid>{C27EC026-BEA7-47BB-8422-14EE2F665B4D}</ProjectGuid>
+    <MSBuildWarningsAsMessages>MSB3101</MSBuildWarningsAsMessages>
+  </PropertyGroup>
+
+</Project>

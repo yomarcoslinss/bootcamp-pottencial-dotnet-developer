@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "05 - Declarando tipos de Váriaveis/1.0.0": {
+        "runtime": {
+          "05 - Declarando tipos de Váriaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05 - Declarando tipos de Váriaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

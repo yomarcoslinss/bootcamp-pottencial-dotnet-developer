@@ -1,0 +1,2 @@
+﻿DateTime dataAtual = DateTime.Now.AddDays(5);
+Console.WriteLine($"Hoje é dia {dataAtual.ToString("dd")} de {dataAtual.ToString("MM")} de {dataAtual.ToString("yyyy")} e são {dataAtual.ToString("hh:mm")}h");
