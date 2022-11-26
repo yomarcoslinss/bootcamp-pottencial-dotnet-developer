@@ -16,3 +16,8 @@ Console.WriteLine(b);
 // Nesse caso de conversão, não é possível utilizar o método Parse
 int inteiro = 5;
 string c = inteiro.ToString(); // TODOS os tipos podem ser representados em String
+
+
+int d = 5;
+double e = d;
+Console.WriteLine(e);
