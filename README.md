@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Bootcamp Pottencial .NET Developer</h1>
     <img src="https://hermes.digitalinnovation.one/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" alt="Logo Bootcamp Pottencial .NET Developer" width="250px"/>
-    <p>Meu repositório do Bootcamp Pottencial .NET Developer da plataforma <strong>DIO</strong></p>
+    <p>Meu repositório do Bootcamp <a href="https://web.dio.me/track/35a4e967-50e1-4140-a858-a6c8f63904c4" target="_blank">Pottencial .NET Developer</a> da plataforma <strong>DIO</strong></p>
 </div>
 
 ---------------
