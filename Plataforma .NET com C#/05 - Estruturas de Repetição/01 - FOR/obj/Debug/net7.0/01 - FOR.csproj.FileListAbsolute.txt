@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\bin\Debug\net7.0\01 - FOR.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\bin\Debug\net7.0\01 - FOR.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\bin\Debug\net7.0\01 - FOR.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\bin\Debug\net7.0\01 - FOR.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\bin\Debug\net7.0\01 - FOR.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\refint\01 - FOR.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\01 - FOR.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\01 - FOR\obj\Debug\net7.0\ref\01 - FOR.dll

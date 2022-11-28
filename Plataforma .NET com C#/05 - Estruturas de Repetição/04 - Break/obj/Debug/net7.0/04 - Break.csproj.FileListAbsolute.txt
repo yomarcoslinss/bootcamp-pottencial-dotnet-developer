@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\bin\Debug\net7.0\04 - Break.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\bin\Debug\net7.0\04 - Break.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\bin\Debug\net7.0\04 - Break.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\bin\Debug\net7.0\04 - Break.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\bin\Debug\net7.0\04 - Break.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\refint\04 - Break.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\04 - Break.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\04 - Break\obj\Debug\net7.0\ref\04 - Break.dll

@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\bin\Debug\net7.0\03 - DO WHILE.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\bin\Debug\net7.0\03 - DO WHILE.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\bin\Debug\net7.0\03 - DO WHILE.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\bin\Debug\net7.0\03 - DO WHILE.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\bin\Debug\net7.0\03 - DO WHILE.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\refint\03 - DO WHILE.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\03 - DO WHILE.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\05 - Estruturas de Repetição\03 - DO WHILE\obj\Debug\net7.0\ref\03 - DO WHILE.dll
