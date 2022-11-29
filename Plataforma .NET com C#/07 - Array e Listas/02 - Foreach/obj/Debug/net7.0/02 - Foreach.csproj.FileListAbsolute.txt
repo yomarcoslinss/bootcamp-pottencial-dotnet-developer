@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\bin\Debug\net7.0\02 - Foreach.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\bin\Debug\net7.0\02 - Foreach.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\bin\Debug\net7.0\02 - Foreach.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\bin\Debug\net7.0\02 - Foreach.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\bin\Debug\net7.0\02 - Foreach.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\refint\02 - Foreach.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\02 - Foreach.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\07 - Array e Listas\02 - Foreach\obj\Debug\net7.0\ref\02 - Foreach.dll
