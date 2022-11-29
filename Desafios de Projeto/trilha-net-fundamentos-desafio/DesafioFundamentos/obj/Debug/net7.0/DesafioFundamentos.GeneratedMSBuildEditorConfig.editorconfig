@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _06___Conhecendo_a_Organização_de_um_Programa
-build_property.ProjectDir = c:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\06 - Conhecendo a Organização de um Programa\ExemploFundamentos\
+build_property.RootNamespace = DesafioFundamentos
+build_property.ProjectDir = C:\Users\yomarcoslinss\Desktop\trilha-net-fundamentos-desafio\DesafioFundamentos\
