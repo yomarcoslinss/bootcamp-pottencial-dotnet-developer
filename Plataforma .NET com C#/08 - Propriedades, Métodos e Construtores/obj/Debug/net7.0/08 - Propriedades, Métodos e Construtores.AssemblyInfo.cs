@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("05 - Construindo um menu interativo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("08 - Propriedades, Métodos e Construtores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("05 - Construindo um menu interativo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("05 - Construindo um menu interativo")]
+[assembly: System.Reflection.AssemblyProductAttribute("08 - Propriedades, Métodos e Construtores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("08 - Propriedades, Métodos e Construtores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
