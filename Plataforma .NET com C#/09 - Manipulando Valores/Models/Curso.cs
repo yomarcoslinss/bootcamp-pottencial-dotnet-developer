@@ -33,7 +33,7 @@ namespace _09___Manipulando_Valores.Models
 
             for (int i = 0; i < Alunos.Count; i++)
             {
-                string texto = "Aluno N° " + i + " - " + Alunos[i].NomeCompleto;
+                string texto = $"Aluno N° {i + 1} - {Alunos[i].NomeCompleto}";
                 Console.WriteLine(texto);
             }
 
