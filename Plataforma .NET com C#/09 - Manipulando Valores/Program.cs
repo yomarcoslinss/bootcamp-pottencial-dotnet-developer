@@ -1,4 +1,4 @@
-﻿using _08___Propriedades__Métodos_e_Construtores.Models;
+﻿using _09___Manipulando_Valores.Models;
 
 
 
@@ -12,19 +12,3 @@ cursoDeIngles.Alunos = new List<Pessoa>();
 cursoDeIngles.AdicionarAluno(p1);
 cursoDeIngles.AdicionarAluno(p2);
 cursoDeIngles.ListarAlunos();
-
-
-
-
-
-
-
-
-
-
-// // Instanciando 
-// Pessoa p1 = new Pessoa(); 
-// p1.Nome = "Marcos";
-// p1.Sobrenome = "Linss";
-// p1.Idade = 19;
-// p1.Apresentar();

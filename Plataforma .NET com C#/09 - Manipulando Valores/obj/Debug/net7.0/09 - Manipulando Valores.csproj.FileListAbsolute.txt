@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\bin\Debug\net7.0\09 - Manipulando Valores.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\bin\Debug\net7.0\09 - Manipulando Valores.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\bin\Debug\net7.0\09 - Manipulando Valores.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\bin\Debug\net7.0\09 - Manipulando Valores.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\bin\Debug\net7.0\09 - Manipulando Valores.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\refint\09 - Manipulando Valores.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\09 - Manipulando Valores.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\09 - Manipulando Valores\obj\Debug\net7.0\ref\09 - Manipulando Valores.dll
