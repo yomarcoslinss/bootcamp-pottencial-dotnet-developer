@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\bin\Debug\net7.0\16 - Tupla em metodos.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\bin\Debug\net7.0\16 - Tupla em metodos.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\bin\Debug\net7.0\16 - Tupla em metodos.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\bin\Debug\net7.0\16 - Tupla em metodos.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\bin\Debug\net7.0\16 - Tupla em metodos.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\refint\16 - Tupla em metodos.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\16 - Tupla em metodos.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\16 - Tupla em metodos\obj\Debug\net7.0\ref\16 - Tupla em metodos.dll

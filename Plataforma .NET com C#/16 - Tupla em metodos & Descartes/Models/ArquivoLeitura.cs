@@ -7,6 +7,7 @@ namespace _16___Tupla_em_metodos.Models
 {
     public class ArquivoLeitura
     {
+        // Declarando a tupla
         public (bool Sucesso, string[] Linhas, int QuantidadeLinhas) LerArquivo(string caminho)
         {
             try
@@ -14,9 +15,10 @@ namespace _16___Tupla_em_metodos.Models
                 string[] linhas = File.ReadAllLines(caminho);
                 return (true, linhas, linhas.Length);
             }
-            catch(Exception)
+            catch (Exception)
             {
-                return (false, new string[0], 0);
+                // Os tipos de retorno devem ter a mesma ordem da declaração da tupla
+                return (false, new string[0], 0); 
             }
         }
     }
