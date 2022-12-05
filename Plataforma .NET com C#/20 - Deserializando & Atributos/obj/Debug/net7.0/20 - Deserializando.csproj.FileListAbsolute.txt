@@ -1,0 +1,34 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\bin\Debug\net7.0\20 - Deserializando.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\bin\Debug\net7.0\20 - Deserializando.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\bin\Debug\net7.0\20 - Deserializando.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\bin\Debug\net7.0\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\bin\Debug\net7.0\20 - Deserializando.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.csproj.CopyComplete
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\refint\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\20 - Deserializando.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando\obj\Debug\net7.0\ref\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\bin\Debug\net7.0\20 - Deserializando.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\bin\Debug\net7.0\20 - Deserializando.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\bin\Debug\net7.0\20 - Deserializando.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\bin\Debug\net7.0\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\bin\Debug\net7.0\20 - Deserializando.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.csproj.CopyComplete
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\refint\20 - Deserializando.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\20 - Deserializando.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\20 - Deserializando & Atributos\obj\Debug\net7.0\ref\20 - Deserializando.dll

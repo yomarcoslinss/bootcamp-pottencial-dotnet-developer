@@ -1,0 +1,17 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\bin\Debug\net7.0\19 - Serialização.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\bin\Debug\net7.0\19 - Serialização.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\bin\Debug\net7.0\19 - Serialização.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\bin\Debug\net7.0\19 - Serialização.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\bin\Debug\net7.0\19 - Serialização.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.csproj.CopyComplete
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\refint\19 - Serialização.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\19 - Serialização.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\19 - Serialização\obj\Debug\net7.0\ref\19 - Serialização.dll
