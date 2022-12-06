@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\bin\Debug\net7.0\24 - Tipo Dinâmico.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\bin\Debug\net7.0\24 - Tipo Dinâmico.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\bin\Debug\net7.0\24 - Tipo Dinâmico.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\bin\Debug\net7.0\24 - Tipo Dinâmico.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\bin\Debug\net7.0\24 - Tipo Dinâmico.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\refint\24 - Tipo Dinâmico.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\24 - Tipo Dinâmico.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\24 - Tipo Dinâmico\obj\Debug\net7.0\ref\24 - Tipo Dinâmico.dll

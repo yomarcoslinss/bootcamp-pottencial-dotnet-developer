@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\bin\Debug\net7.0\23 - Tipo Anonimo.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\bin\Debug\net7.0\23 - Tipo Anonimo.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\bin\Debug\net7.0\23 - Tipo Anonimo.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\bin\Debug\net7.0\23 - Tipo Anonimo.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\bin\Debug\net7.0\23 - Tipo Anonimo.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\refint\23 - Tipo Anonimo.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\23 - Tipo Anonimo.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Plataforma .NET com C#\23 - Tipo Anonimo\obj\Debug\net7.0\ref\23 - Tipo Anonimo.dll
