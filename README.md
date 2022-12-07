@@ -23,6 +23,10 @@
 <details>
 <summary>Desafios de Projeto</summary>
 
-- Em breve...
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto" target="_blank">Link do diretório</a>
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-fundamentos-desafio" target="_blank">Trilha .NET - Fundamentos</a>
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-explorando-desafio" target="_blank">Trilha .NET - Explorando a Linguagem</a>
 </details>
+<hr/>
+<p>#makethechange</p>
 
