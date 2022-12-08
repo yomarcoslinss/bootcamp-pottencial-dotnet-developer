@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\bin\Debug\net7.0\02 - Encapsulamento.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\bin\Debug\net7.0\02 - Encapsulamento.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\bin\Debug\net7.0\02 - Encapsulamento.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\bin\Debug\net7.0\02 - Encapsulamento.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\bin\Debug\net7.0\02 - Encapsulamento.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\refint\02 - Encapsulamento.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\02 - Encapsulamento.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\02 - Encapsulamento\obj\Debug\net7.0\ref\02 - Encapsulamento.dll

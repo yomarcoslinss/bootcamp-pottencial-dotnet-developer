@@ -13,10 +13,24 @@ namespace _02___Encapsulamento.Models
             saldo = saldoInicial;
         }
         public int NumeroConta { get; set; }
-        private decimal saldo;
+        private decimal saldo; 
+
         public void Sacar(decimal valor)
         {
-            saldo -= valor;
+            if(valor <= saldo)
+            {
+                saldo -= valor;
+                Console.WriteLine($"Você sacou R$ {valor} da sua conta, seu novo saldo R$ {saldo}");
+            }
+            else
+            {
+                Console.WriteLine("Não foi possível realizar o saque !! Você informou um valor maior que o saldo disponível em conta");
+            }
+        }
+
+        public void ExibirSaldo()
+        {
+            Console.WriteLine($"O seu saldo atual é R${saldo}");
         }
     }
 }
