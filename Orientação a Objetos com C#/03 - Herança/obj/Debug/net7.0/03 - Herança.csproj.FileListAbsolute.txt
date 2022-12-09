@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\bin\Debug\net7.0\03 - Herança.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\bin\Debug\net7.0\03 - Herança.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\bin\Debug\net7.0\03 - Herança.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\bin\Debug\net7.0\03 - Herança.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\bin\Debug\net7.0\03 - Herança.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\refint\03 - Herança.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\03 - Herança.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\03 - Herança\obj\Debug\net7.0\ref\03 - Herança.dll

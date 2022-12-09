@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\bin\Debug\net7.0\04 - Polimorfismo.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\bin\Debug\net7.0\04 - Polimorfismo.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\bin\Debug\net7.0\04 - Polimorfismo.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\bin\Debug\net7.0\04 - Polimorfismo.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\bin\Debug\net7.0\04 - Polimorfismo.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\refint\04 - Polimorfismo.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\04 - Polimorfismo.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\04 - Polimorfismo\obj\Debug\net7.0\ref\04 - Polimorfismo.dll
