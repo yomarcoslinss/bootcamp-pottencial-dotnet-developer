@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\bin\Debug\net7.0\10 - Interfaces.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\bin\Debug\net7.0\10 - Interfaces.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\bin\Debug\net7.0\10 - Interfaces.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\bin\Debug\net7.0\10 - Interfaces.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\bin\Debug\net7.0\10 - Interfaces.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\refint\10 - Interfaces.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\10 - Interfaces.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\10 - Interfaces\obj\Debug\net7.0\ref\10 - Interfaces.dll

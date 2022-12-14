@@ -1,0 +1,15 @@
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\bin\Debug\net7.0\05 - Classe Abstrata.exe
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\bin\Debug\net7.0\05 - Classe Abstrata.deps.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\bin\Debug\net7.0\05 - Classe Abstrata.runtimeconfig.json
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\bin\Debug\net7.0\05 - Classe Abstrata.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\bin\Debug\net7.0\05 - Classe Abstrata.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.csproj.AssemblyReference.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.AssemblyInfoInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.AssemblyInfo.cs
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.csproj.CoreCompileInputs.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\refint\05 - Classe Abstrata.dll
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.pdb
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\05 - Classe Abstrata.genruntimeconfig.cache
+C:\Users\yomarcoslinss\Documents\yomarcoslinss (estudos)\DIO\bootcamp-pottencial-dotnet-developer\Orientação a Objetos com C#\05 - Classe Abstrata\obj\Debug\net7.0\ref\05 - Classe Abstrata.dll

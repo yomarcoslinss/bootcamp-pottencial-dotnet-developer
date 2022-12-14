@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace _08___Metodo_Selado.Models
+{
+    public class Pessoa
+    {
+        // Criando um construtor por Herança:
+
+
+        public Pessoa()
+        {
+            /*
+            * Caso eu insira um construtor vazio na classe pai, não será
+            * obrigatório inserir um construtor nas classes filhas !!!
+            */             
+        }
+        public Pessoa (string nome)
+        {
+            Nome = nome;
+        }
+
+
+        public string Nome { get; set; }
+        public int Idade { get; set; }
+
+        public virtual void Apresentar()
+        {
+            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos");
+        }
+    }
+}
