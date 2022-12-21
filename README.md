@@ -15,9 +15,9 @@
 - Prepare-se Para a Jornada ✅ 23/11/2022
 - Princípios de Desenvolvimento de Software ✅ 23/11/2022
 - Conhecendo a Plataforma .NET com C# ✅ 06/12/2022
-- Orientação a Objetos com C# ❌
-- Banco de Dados Relacionais - SQL Server ❌
-- Dominando o Ecossistema .NET
+- Orientação a Objetos com C# ✅ 13/12/2022
+- Banco de Dados Relacionais - SQL Server ✅ 21/12/2022
+- Dominando o Ecossistema .NET ❌
 </details>
 
 <details>
