@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlXQ++NC40ZXDLW5ZLEBOPnUCYI9jBr9VFFMru5y5uH7ThS8cGGhVaaCX9tRYLjeTGKCk3EWB/EdkkJlojJgiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\DIO\\bootcamp-pottencial-dotnet-developer\\Dominando o Ecossistema .NET\\01 - Criando uma API\\01 - Criando uma API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\yomarcoslinss\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
