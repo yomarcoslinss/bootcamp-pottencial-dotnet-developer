@@ -27,7 +27,7 @@ namespace _01___Criando_uma_API.Controllers
             return CreatedAtAction(nameof(ObterPorId), new {id = contato.Id}, contato);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet()]
         public IActionResult ObterPorId(int id)
         {
             var contatoBanco = _context.Contatos.Find(id);
