@@ -17,7 +17,7 @@
 - Conhecendo a Plataforma .NET com C# ✅ 06/12/2022
 - Orientação a Objetos com C# ✅ 13/12/2022
 - Banco de Dados Relacionais - SQL Server ✅ 21/12/2022
-- Dominando o Ecossistema .NET ❌
+- Dominando o Ecossistema .NET ✅ 06/01/2023
 </details>
 
 <details>
@@ -25,7 +25,17 @@
 
 - <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto" target="_blank">Link do diretório</a>
 - <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-fundamentos-desafio" target="_blank">Trilha .NET - Fundamentos</a>
-- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-explorando-desafio" target="_blank">Trilha .NET - Explorando a Linguagem</a>
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-explorando-desafio" target="_blank">Trilha .NET - Explorando a linguagem</a>
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-poo-desafio" target="_blank">Trilha .NET - Programação orientada a objetos</a>
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/trilha-net-api-desafio" target="_blank">Trilha .NET - API e Entity Framework</a>
+- <a href="https://github.com/yomarcoslinss/bootcamp-pottencial-dotnet-developer/tree/main/Desafios%20de%20Projeto/tech-test-payment-api" target="_blank">Teste Pottencial - Payment API</a>
+</details>
+
+<details>
+<summary>Certificado de Conclusão</summary>
+<div align="center">
+<img src="./Banco de Dados Relacionais - SQL Server/certificado.jpg" alt="Certificado de conclusão do bootcamp"></img>
+</div>
 </details>
 <hr/>
 <p>#makethechange</p>
